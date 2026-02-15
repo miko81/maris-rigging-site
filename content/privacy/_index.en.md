@@ -45,7 +45,7 @@ Pursuant to Articles 15–22 of the GDPR, you have the right to:
 - Object to processing
 - Request data portability
 
-You may exercise these rights by sending a request via email to: **info@asglab.it**
+You may exercise these rights by sending a request via email to: **michele@marisrigging.it**
 
 You also have the right to lodge a complaint with the Italian Data Protection Authority (Garante per la Protezione dei Dati Personali) at [www.garanteprivacy.it](https://www.garanteprivacy.it) if you believe the processing of your data is unlawful.
 

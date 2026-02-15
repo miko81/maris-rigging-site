@@ -15,11 +15,11 @@ title = "Ma.Ri.S Rigging"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
-   name = "Michele Cannarsa"
+   name = "Ma.Ri.S. Rigging"
    email = "michele@marisrigging.it"
    image = "img/icon-light.png"
    imageQuality = 96
-   headline = "Fluid power, absolute control."
+   headline = "by Michele Cannarsa"
    bio = "Professional nautical rigging services in North Sardinia."
    links = [
      { email = "mailto:michele@marisrigging.it" },

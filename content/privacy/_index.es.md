@@ -45,7 +45,7 @@ Conforme a los artículos 15 a 22 del RGPD, usted tiene derecho a:
 - Oponerse al tratamiento
 - Solicitar la portabilidad de los datos
 
-Puede ejercer estos derechos enviando una solicitud por correo electrónico a: **info@asglab.it**
+Puede ejercer estos derechos enviando una solicitud por correo electrónico a: **michele@marisrigging.it**
 
 Asimismo, tiene derecho a presentar una reclamación ante la Autoridad de Control competente, la Agencia Española de Protección de Datos (AEPD) en [www.aepd.es](https://www.aepd.es) o ante la autoridad italiana (Garante per la Protezione dei Dati Personali) en [www.garanteprivacy.it](https://www.garanteprivacy.it), si considera que el tratamiento de sus datos es ilícito.
 

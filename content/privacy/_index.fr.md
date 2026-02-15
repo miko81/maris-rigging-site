@@ -45,7 +45,7 @@ Conformément aux articles 15 à 22 du RGPD, vous disposez des droits suivants :
 - Vous opposer au traitement
 - Demander la portabilité des données
 
-Vous pouvez exercer ces droits en envoyant une demande par e-mail à : **info@asglab.it**
+Vous pouvez exercer ces droits en envoyant une demande par e-mail à : **michele@marisrigging.it**
 
 Vous avez également le droit d’introduire une réclamation auprès de la Commission nationale de l’informatique et des libertés (CNIL) à [www.cnil.fr](https://www.cnil.fr) ou auprès du Garante per la Protezione dei Dati Personali italien à [www.garanteprivacy.it](https://www.garanteprivacy.it) si vous estimez que le traitement de vos données est illicite.
 

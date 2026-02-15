@@ -9,7 +9,7 @@ La presente informativa sulla privacy è redatta da **Ma.Ri.S. Rigging di Michel
 
 ## 1. Oggetto della Privacy Policy
 
-La presente informativa ha come obiettivo fornire agli utenti del nostro sito web [https://asglab.it ](https://www.maris-rigging.it ) informazioni chiare e trasparenti riguardo al trattamento dei loro dati personali raccolti durante la navigazione sul sito o l’utilizzo dei nostri servizi online.
+La presente informativa ha come obiettivo fornire agli utenti del nostro sito web [https://www.maris-rigging.it ](https://www.maris-rigging.it ) informazioni chiare e trasparenti riguardo al trattamento dei loro dati personali raccolti durante la navigazione sul sito o l’utilizzo dei nostri servizi online.
 
 ## 2. Tipologie di Dati Raccolti
 
@@ -52,7 +52,7 @@ Ai sensi degli articoli da 15 a 22 del GDPR, Lei ha diritto di:
 - Opporsi al trattamento
 - Richiedere la portabilità dei dati
 
-Può esercitare tali diritti inviando una richiesta via email a: **info@asglab.it**
+Può esercitare tali diritti inviando una richiesta via email a: **michele@marisrigging.it**
 
 Ha inoltre il diritto di presentare reclamo al Garante per la Protezione dei Dati Personali [www.garanteprivacy.it](https://www.garanteprivacy.it ) qualora ritenga che il trattamento dei suoi dati sia illecito.
 
