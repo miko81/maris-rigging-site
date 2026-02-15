@@ -1,0 +1,34 @@
+disabled = false
+languageCode = "fr"
+languageName = "Français"
+weight = 4
+title = "Ma.Ri.S Rigging"
+
+[params]
+  displayName = "Français"
+  isoCode = "fr"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/icon-light.png"
+  # secondaryLogo = "img/icon-dark.png"
+  # description = "Sailing Yacht Rigging di Michele Cannarsa"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+   name = "Michele Cannarsa"
+   email = "michele@marisrigging.it"
+   image = "img/icon-light.png"
+   imageQuality = 96
+   headline = "de Michele Cannarsa"
+   bio = "Rigging nautique professionnel dans le nord de la Sardaigne."
+   links = [
+     { email = "mailto:michele@marisrigging.it" },
+#     { link = "https://link-to-some-website.com/" },
+#     { facebook = "https://facebook.com/username" },
+#     { github = "https://github.com/username" },
+#     { instagram = "https://instagram.com/username" },
+     { linkedin = "https://it.linkedin.com/in/michele-cannarsa-7687348b" },
+     { telegram = "https://t.me/+393490867235" },
+#     { x-twitter = "https://twitter.com/username" },
+     { whatsapp = "https://wa.me/+393490867235" },
+   ]

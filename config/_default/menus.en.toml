@@ -11,19 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "Home"
-url = "/"
-weight = 1
+  name = "Services"
+  pageRef = "/services/"
+  weight = 10
 
 [[main]]
-name = "Servizi"
-url = "/servizi/"
-weight = 2
-
-[[main]]
-name = "Contatti"
-url = "/contatti/"
-weight = 3
+  name = "Contacts"
+  pageRef = "/contacts/"
+  weight = 20
 
 #[[main]]
 #  name = "Blog"
@@ -73,12 +68,13 @@ weight = 3
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+   name = "Terms"
+   pageRef = "terms"
+   weight = 10
 
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+ [[footer]]
+   name = "Privacy"
+   pageRef = "privacy"
+   weight = 20
+
