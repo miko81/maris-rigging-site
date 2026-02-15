@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://miko81.github.io/maris-rigging-site/sitemap.xml
