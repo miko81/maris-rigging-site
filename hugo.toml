@@ -1,0 +1,6 @@
+baseURL = 'https://miko81.github.io/maris-rigging-site/'
+title = 'Ma.Ri.S Rigging'
+theme = 'blowfish'
+
+[params]
+  i18n.switcher.enable = true
