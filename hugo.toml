@@ -1,6 +1,19 @@
 baseURL = 'https://miko81.github.io/maris-rigging-site/'
 title = 'Ma.Ri.S Rigging'
 theme = 'blowfish'
+publishDir = "."
 
 [params]
   i18n.switcher.enable = true
+
+[languages]
+[languages.it]
+languageName = "IT"
+weight = 1
+[languages.en]
+languageName = "EN"
+weight = 2
+[languages.fr]
+languageName = "FR"
+weight = 3
+
