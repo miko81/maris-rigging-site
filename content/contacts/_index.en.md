@@ -19,6 +19,6 @@ La Maddalena - Palau - Olbia
 
 ## Company information
 
-**Address:** Via xxxxx, xx – 12345 La Maddalena (OT)  
-**VAT Number:** 123456789...  
-**Tax Code:** CNNMCL...  
+**Address:** Via Pietro Susini, 16, 07024 La Maddalena (OT)  
+**VAT Number:** 03063600906  
+**Tax Code:** CNNMHL81L24G702L  

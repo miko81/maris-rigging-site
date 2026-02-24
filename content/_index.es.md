@@ -4,7 +4,7 @@ title: "Ma.Ri.S Rigging de Michele Cannarsa"
 
 ## Quién Soy
 
-Soy Michele, para mí la vela no es un hobby, es lo que he hecho siempre. He pasado años entre campos de regata y astilleros, ocupándome de gestión y mantenimiento. Con **Ma.Ri.S. Rigging** llevo esta experiencia directamente a tu barco.
+Soy Michele, para mí la vela no es un hobby, es lo que he hecho siempre. He pasado años entre campos de regata y astilleros, ocupándome de gestión y mantenimiento. A través de nosotros llevamos esta experiencia directamente a tu barco.
 
 ## Mi enfoque
 

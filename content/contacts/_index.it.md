@@ -19,6 +19,6 @@ La Maddalena - Palau - Olbia
 
 ## Informazioni aziendali  
 
-**Indirizzo:** Via xxxxx, xx – 12345 La Maddalena (OT)  
-**P.IVA:** 123456789...  
-**C.F.:** CNNMCL...  
+**Indirizzo:** Via Pietro Susini, 16, 07024 La Maddalena (OT)  
+**P.IVA:** 03063600906  
+**C.F.:** CNNMHL81L24G702L  

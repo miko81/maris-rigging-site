@@ -4,7 +4,7 @@ title: "Ma.Ri.S Rigging de Michele Cannarsa"
 
 ## Qui je suis
 
-Je suis Michele, pour moi la voile n’est pas un hobby, c’est ce que je fais depuis toujours. J’ai passé des années entre les champs de régate et les chantiers, en m’occupant de gestion et d’entretien. Avec **Ma.Ri.S. Rigging**, j’apporte cette expérience directement sur votre bateau.
+Je suis Michele, pour moi la voile n’est pas un hobby, c’est ce que je fais depuis toujours. J’ai passé des années entre les champs de régate et les chantiers, en m’occupant de gestion et d’entretien. À travers nous nous apportons cette expérience directement sur votre bateau.
 
 ## Mon approche
 

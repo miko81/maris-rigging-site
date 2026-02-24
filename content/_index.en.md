@@ -4,7 +4,7 @@ title: "Ma.Ri.S Rigging by Michele Cannarsa"
 
 ## About Me
 
-I'm Michele, and for me sailing isn't a hobby—it's what I've done my whole life. I've spent years between race courses and boatyards, handling management and maintenance. With **Ma.Ri.S. Rigging**, I bring this experience straight to your boat.
+I'm Michele, and for me sailing isn't a hobby—it's what I've done my whole life. I've spent years between race courses and boatyards, handling management and maintenance. Through us we bring this experience straight to your boat.
 
 ## My Approach
 
