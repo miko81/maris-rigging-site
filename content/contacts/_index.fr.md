@@ -3,7 +3,7 @@ title: "Contact"
 description: "Contact"
 ---
 
-**Ma.Ri.S Rigging** est toujours à votre disposition pour des informations, des demandes de devis ou une assistance technique sur des voiliers.
+**Ma.Ri.S Rigging de Michele Cannarsa** est toujours à votre disposition pour des informations, des demandes de devis ou une assistance technique sur des voiliers.
 
 **Base opérationnelle** :
 La Maddalena - Palau - Olbia

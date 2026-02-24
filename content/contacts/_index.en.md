@@ -3,7 +3,7 @@ title: "Contact"
 description: "Contact"
 ---
 
-**Ma.Ri.S Rigging** is always at your disposal for information, quote requests or technical assistance on sailing yachts.
+**Ma.Ri.S Rigging di Michele Cannarsa** is always at your disposal for information, quote requests or technical assistance on sailing yachts.
 
 **Operational base**:
 La Maddalena - Palau - Olbia

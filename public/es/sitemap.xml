@@ -3,58 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/maris-rigging-site/es/</loc>
-    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/maris-rigging-site/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/maris-rigging-site/en/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="http://localhost:1313/maris-rigging-site/fr/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/maris-rigging-site/es/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/maris-rigging-site/es/services/</loc>
-    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/maris-rigging-site/services/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/maris-rigging-site/en/services/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="http://localhost:1313/maris-rigging-site/fr/services/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="http://localhost:1313/maris-rigging-site/es/services/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/maris-rigging-site/es/contacts/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -80,6 +28,31 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/maris-rigging-site/es/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/maris-rigging-site/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/maris-rigging-site/en/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/maris-rigging-site/fr/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/maris-rigging-site/es/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/maris-rigging-site/es/privacy/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -102,6 +75,31 @@
       rel="alternate"
       hreflang="es"
       href="http://localhost:1313/maris-rigging-site/es/privacy/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/maris-rigging-site/es/services/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/maris-rigging-site/services/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/maris-rigging-site/en/services/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/maris-rigging-site/fr/services/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/maris-rigging-site/es/services/"
     />
   </url>
   <url>
