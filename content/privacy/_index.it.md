@@ -5,7 +5,7 @@ description: "Informativa sulla Privacy."
 
 **Ultima modifica:** 15 febbraio 2026  
 
-La presente informativa sulla privacy è redatta da **Ma.Ri.S. Rigging di Michele Cannarsa**, con sede legale in Via xxxxxx, 1, 07024 – La Maddalena (OT), in qualità di Titolare del trattamento dei dati personali ai sensi dell’Articolo 4 del Regolamento Generale sui Dati (GDPR – Regolamento UE 2016/679).
+La presente informativa sulla privacy è redatta da **Ma.Ri.S. Rigging di Michele Cannarsa**, con sede legale in Via Pietro Susini, 16, 07024 La Maddalena (OT), in qualità di Titolare del trattamento dei dati personali ai sensi dell’Articolo 4 del Regolamento Generale sui Dati (GDPR – Regolamento UE 2016/679).
 
 ## 1. Oggetto della Privacy Policy
 
