@@ -14,7 +14,7 @@ Les mots dont la première lettre est en majuscule ont les significations défin
 Aux fins des présentes Conditions Générales d'Utilisation :
 - **Affiliée** désigne une entité qui contrôle, est contrôlée par ou est sous contrôle commun avec une partie, où « contrôle » signifie la possession d'au moins 50 % des actions, des parts sociales ou d'autres titres donnant droit de vote pour l'élection des administrateurs ou d'autres autorités de gestion.
 - **Pays** désigne : Italie.
-- **Société** (désignée comme « la Société », « Nous », « Notre » ou « Nos » dans le présent accord) désigne Ma.Ri.S. Rigging di Michele Cannarsa, Via xxxxxxx, xx, 07024 La Maddalena (OT).
+- **Société** (désignée comme « la Société », « Nous », « Notre » ou « Nos » dans le présent accord) désigne Ma.Ri.S. Rigging di Michele Cannarsa, Via Pietro Susini, 16, 07024 La Maddalena (OT).
 - **Appareil** désigne tout appareil capable d'accéder au Service, tel qu'un ordinateur, un téléphone mobile ou une tablette numérique.
 - **Service** désigne le Site Web.
 - **Conditions Générales d'Utilisation** (également désignées comme « Conditions ») désignent les présentes Conditions Générales d'Utilisation qui constituent l'intégralité de l'accord entre Vous et la Société concernant l'utilisation du Service. Ces Conditions Générales d'Utilisation ont été rédigées avec l'aide d'un générateur de Conditions Générales d'Utilisation.

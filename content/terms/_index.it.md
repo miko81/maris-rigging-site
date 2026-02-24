@@ -17,12 +17,12 @@ Ai fini dei presenti Termini e Condizioni:
 
 - **Affiliata**: indica un'entità che controlla, è controllata da, o è sotto controllo comune con una parte, dove per "controllo" si intende il possesso di almeno il 50% delle azioni, quote societarie o altri titoli aventi diritto a voto per l'elezione di amministratori o altre autorità gestionali.
 - **Paese**: si riferisce a: Italia.
-- **Azienda** (indicata come "Azienda", "Noi", "Ci" o "Nostro" nel presente accordo) si riferisce a Ma.Ri.S. Rigging di Michele Cannarsa, Via xxxxxxx, xx, 07024 La Maddalena (OT).
+- **Azienda** (indicata come "Azienda", "Noi", "Ci" o "Nostro" nel presente accordo) si riferisce a Ma.Ri.S. Rigging di Michele Cannarsa, Via Pietro Susini, 16, 07024 La Maddalena (OT).
 - **Dispositivo**: qualsiasi dispositivo in grado di accedere al Servizio, come computer, cellulari o tablet digitali.
 - **Servizio**: si riferisce al Sito Web.
 - **Termini e Condizioni** (indicati anche come "Termini") indicano i presenti Termini e Condizioni, che costituiscono l'intero accordo tra Lei e l'Azienda riguardo all'utilizzo del Servizio. I presenti Termini e Condizioni sono stati redatti con l'aiuto del generatore di Termini e Condizioni.
 - **Servizi di social media di terze parti**: indica eventuali servizi o contenuti (inclusi dati, informazioni, prodotti o servizi) forniti da soggetti terzi, visualizzabili, inclusi o resi disponibili tramite il Servizio.
-- **Sito Web**: si riferisce al sito web di ASG LAB, accessibile all’indirizzo [https://asglab.it ](https://www.maris-rigging.it ).
+- **Sito Web**: si riferisce al sito web di ASG LAB, accessibile all’indirizzo [https://www.maris-rigging.it ](https://www.maris-rigging.it ).
 - **Utente** (indicato come "Lei" o "Utente"): indica la persona fisica che accede al Servizio o lo utilizza, oppure l'azienda o altra entità giuridica nella cui rappresentanza tale persona agisce, ove applicabile.
 
 ## Accettazione

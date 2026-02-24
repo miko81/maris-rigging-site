@@ -14,7 +14,7 @@ Las palabras cuya letra inicial está en mayúscula tienen significados definido
 A los efectos de estos Términos y Condiciones:
 - **Afiliada** significa una entidad que controla, es controlada por o está bajo control común con una parte, donde por "control" se entiende la posesión del 50% o más de las acciones, participación accionaria u otros títulos con derecho a voto para la elección de directores u otras autoridades de gestión.
 - **País** se refiere a: Italia.
-- **Empresa** (denominada como "la Empresa", "Nosotros", "Nos" o "Nuestro" en este Acuerdo) se refiere a Ma.Ri.S. Rigging di Michele Cannarsa, Via xxxxxxx, xx, 07024 La Maddalena (OT).
+- **Empresa** (denominada como "la Empresa", "Nosotros", "Nos" o "Nuestro" en este Acuerdo) se refiere a Ma.Ri.S. Rigging di Michele Cannarsa, Via Pietro Susini, 16, 07024 La Maddalena (OT).
 - **Dispositivo** significa cualquier dispositivo capaz de acceder al Servicio, como computadoras, teléfonos móviles o tabletas digitales.
 - **Servicio** se refiere al Sitio Web.
 - **Términos y Condiciones** (también denominados "Términos") significan estos Términos y Condiciones que constituyen el acuerdo completo entre Usted y la Empresa respecto al uso del Servicio. Estos Términos y Condiciones han sido redactados con la ayuda de un Generador de Términos y Condiciones.
