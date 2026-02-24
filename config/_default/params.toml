@@ -22,7 +22,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "img/logo-light.png" # used as default for background images
+defaultBackgroundImage = "img/logo-icon.png" # used as default for background images
 # defaultFeaturedImage = "img/featured.svg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
