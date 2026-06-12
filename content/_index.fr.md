@@ -2,16 +2,8 @@
 title: "Ma.Ri.S Rigging de Michele Cannarsa"
 ---
 
-## Qui je suis
+## Qui suis-je
 
-Je suis Michele, pour moi la voile n’est pas un hobby, c’est ce que je fais depuis toujours. J’ai passé des années entre les champs de régate et les chantiers, en m’occupant de gestion et d’entretien. À travers nous nous apportons cette expérience directement sur votre bateau.
+Marin depuis toujours, j'ai acquis une profonde expérience dans le monde de la régate, aussi bien en dériveur qu'en habitable. Au fil des années, cette passion a naturellement évolué vers une profession dédiée à la technique et à la sécurité nautique.
 
-## Mon approche
-
-En mer, on n’a pas besoin de poésie, on a besoin que l’accastillage tienne. Mon travail, c’est ça :
-
-- **Inspections réelles :** Je vérifie le gréement pour prévenir les avaries, pas pour vous vendre une pièce de plus.
-- **Solutions de régate :** J’utilise des matériaux et des techniques éprouvés sous charge.
-- **Praticité :** Épissures, gréement dormant et entretien faits pour durer et pour être utilisés.
-
-*"Je navigue, donc je sais ce qui se passe quand un renvoi coince ou qu’une drisse lâche. Je travaille pour que ça n’arrive pas."*
+Depuis 1999, j'ai travaillé comme moniteur dans l'une des plus grandes écoles de voile nationales, où j'ai ensuite occupé le poste de **Responsable Technique et Sécurité** en qualité de Coordinateur Opérationnel, jusqu'en 2024. Fort de cette solide expérience dans la gestion et l'entretien de flottes entières, je mets aujourd'hui mes compétences au service des propriétaires pour leur garantir une navigation sereine et sûre.

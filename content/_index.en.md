@@ -4,14 +4,6 @@ title: "Ma.Ri.S Rigging by Michele Cannarsa"
 
 ## About Me
 
-I'm Michele, and for me sailing isn't a hobby—it's what I've done my whole life. I've spent years between race courses and boatyards, handling management and maintenance. Through us we bring this experience straight to your boat.
+A lifelong sailor, I have built deep experience in the racing world, on both dinghies and keelboats. Over the years this passion has naturally evolved into a profession dedicated to nautical technology and safety.
 
-## My Approach
-
-At sea, poetry isn't needed—what's needed is gear that holds up. That's what my work is about:
-
-- **Real inspections:** I check the rigging to prevent failures, not to sell you extra parts.
-- **Race-proven solutions:** I use materials and techniques tested under load.
-- **Practicality:** Splicing, standing rigging, and maintenance built to last and to be used.
-
-*"I sail, so I know what happens when a lead jams or a halyard gives way. I work so it doesn't happen."*
+Since 1999 I worked as an instructor at one of Italy's largest national sailing schools, where I later served as **Technical and Safety Manager** in the role of Operations Coordinator, until 2024. Thanks to this solid experience managing and maintaining entire fleets, I now put my skills at the service of boat owners to guarantee them safe, worry-free sailing.

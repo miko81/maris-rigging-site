@@ -2,16 +2,8 @@
 title: "Ma.Ri.S Rigging di Michele Cannarsa"
 ---
 
-## Chi Sono
+## Chi sono
 
-Sono Michele, la vela per me non è un hobby, è quello che faccio da sempre. Ho passato anni tra i campi di regata e in cantiere, occupandomi di gestione e manutenzione. Attravero di noi portiamo questa esperienza direttamente sulla tua barca.
+Velista da sempre, ho maturato una profonda esperienza nel mondo delle regate, sia su derive che su cabinati. Negli anni questa passione si è evoluta naturalmente in una professione dedicata alla tecnica e alla sicurezza nautica.
 
-## Il mio approccio
-
-In mare non serve la poesia, serve che l'attrezzatura tenga. Il mio lavoro è questo:
-
-- **Ispezioni reali:** Controllo l'armo per prevenire avarie, non per venderti un pezzo in più.
-- **Soluzioni da regata:** Uso materiali e tecniche collaudate sotto sforzo.
-- **Praticità:** Impiombature, sartiame e manutenzione fatti per durare e per essere usati.
-
-*"Navigo, quindi so cosa succede quando un rinvio non gira o una drizza cede. Lavoro perché non succeda."*
+Dal 1999 ho operato come istruttore presso una delle più grandi scuole di vela nazionali, dove successivamente ho ricoperto il ruolo di **Responsabile Tecnico e della Sicurezza** in qualità di Coordinatore Operativo, fino al 2024. Grazie a questa solida esperienza nella gestione e manutenzione di intere flotte, oggi metto le mie competenze al servizio degli armatori per garantire loro una navigazione serena e sicura.
