@@ -13,7 +13,7 @@ La Maddalena - Palau - Olbia
 > Rapid on-site interventions in the harbour 7/7 (weather permitting).
 
 {{< icon "email" >}} [michele@marisrigging.it](mailto:michele@marisrigging.it)  
-{{< icon "phone" >}} [+39 375 5707492](tel:+393490867235)  
+{{< icon "phone" >}} [+39 349 0867235](tel:+393490867235)  
 {{< icon "whatsapp" >}} [Write to us on WhatsApp](https://wa.me/+393490867235)  
 {{< icon "telegram" >}} [Write to us on Telegram](https://t.me/+393490867235)  
 
