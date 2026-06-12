@@ -81,7 +81,7 @@ Si une disposition des présentes Conditions est jugée invalide ou inapplicable
 Sauf disposition contraire dans le présent document, le fait de ne pas exercer un droit ou de ne pas exiger l'exécution d'une obligation en vertu des présentes Conditions n'affectera pas la capacité d'une partie à exercer ce droit ou à exiger cette exécution ultérieurement, ni la renonciation à un manquement ne constituera une renonciation à des manquements ultérieurs.
 
 ## Interprétation en Cas de Traduction
-Les présentes Conditions Générales d'Utilisation peuvent avoir été traduites si Nous les avons mises à Votre disposition dans une langue autre que l'anglais. Vous acceptez que le texte original en anglais prévaudra en cas de litige.
+Les présentes Conditions Générales d'Utilisation sont rédigées en italien et peuvent avoir été traduites dans d'autres langues. Vous acceptez que le texte original en italien prévaudra en cas de litige.
 
 ## Modifications des Présentes Conditions Générales d'Utilisation
 Nous nous réservons le droit, à Notre seule discrétion, de modifier ou remplacer ces Conditions à tout moment. Si une révision est substantielle, Nous ferons des efforts raisonnables pour fournir un préavis d'au moins 30 jours avant l'entrée en vigueur des nouvelles dispositions. Ce qui constitue un changement substantiel sera déterminé à Notre seule discrétion.

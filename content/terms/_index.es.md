@@ -81,7 +81,7 @@ Si alguna disposición de estos Términos se considera inválida o inaplicable, 
 Salvo lo dispuesto en contrario en este documento, la falta de ejercicio de un derecho o la renuncia a exigir el cumplimiento de una obligación bajo estos Términos no afectará la capacidad de una parte para ejercer dicho derecho o exigir dicho cumplimiento en el futuro, ni la renuncia a un incumplimiento constituirá renuncia a incumplimientos posteriores.
 
 ## Interpretación en Caso de Traducción
-Estos Términos y Condiciones pueden haber sido traducidos si los hemos puesto a su disposición en un idioma distinto del inglés. Usted acepta que el texto original en inglés prevalecerá en caso de controversia.
+Estos Términos y Condiciones están redactados en italiano y pueden haber sido traducidos a otros idiomas. Usted acepta que el texto original en italiano prevalecerá en caso de controversia.
 
 ## Modificaciones a Estos Términos y Condiciones
 Nos reservamos el derecho, a nuestra sola discreción, de modificar o sustituir estos Términos en cualquier momento. Si una revisión es material, haremos esfuerzos razonables para proporcionar al menos 30 días de aviso previo antes de que entren en vigor los nuevos términos. Qué constituye un cambio material se determinará a nuestra sola discreción.

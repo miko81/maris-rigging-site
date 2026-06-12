@@ -19,7 +19,7 @@ Zu den personenbezogenen Daten, die automatisch erhoben oder freiwillig von den 
 - Telefonnummer
 - IP-Adresse
 - Technische Informationen über das verwendete Gerät und den Browser
-- Technische und Analyse-Cookies (siehe Punkt 5)
+- Etwaige essenzielle technische Cookies oder Funktionen (siehe Punkt 5)
 
 ## 3. Zwecke und Rechtsgrundlage der Verarbeitung
 
@@ -41,7 +41,7 @@ Die Daten werden rechtmäßig, fair und transparent verarbeitet, mit elektronisc
 
 ## 5. Verwendung von Cookies
 
-Unsere Website verwendet technische und Analyse-Cookies, um das Nutzererlebnis zu verbessern und statistische Informationen über die Nutzung der Website zu sammeln. Weitere Informationen finden Sie in unserer [Cookie-Richtlinie](#).
+Unsere Website verwendet weder Profiling-Cookies noch Analysetools von Drittanbietern. Es können ausschließlich für den Betrieb der Website essenzielle technische Funktionen zum Einsatz kommen (wie die lokale Speicherung der Präferenz für das helle/dunkle Design), die keinerlei Tracking des Nutzers beinhalten.
 
 ## 6. Rechte der Nutzer
 

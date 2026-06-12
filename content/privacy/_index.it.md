@@ -19,7 +19,7 @@ Tra i dati personali che potrebbero essere raccolti automaticamente o forniti vo
 - Numero di telefono
 - Indirizzo IP
 - Informazioni tecniche sul dispositivo e browser utilizzato
-- Cookie tecnici e analitici (vedi punto 5)
+- Eventuali cookie o funzionalità tecniche essenziali (vedi punto 5)
 
 ## 3. Finalità e Base Giuridica del Trattamento
 
@@ -41,7 +41,7 @@ I dati vengono trattati in modo lecito, corretto e trasparente, mediante strumen
 
 ## 5. Utilizzo dei Cookie
 
-Il nostro sito utilizza cookie tecnici e di analytics per migliorare l’esperienza dell’utente e raccogliere informazioni statistiche sull'utilizzo del sito. Per maggiori informazioni consulta la nostra [Cookie Policy](#).
+Il nostro sito non utilizza cookie di profilazione né strumenti di analisi di terze parti. Possono essere impiegate esclusivamente funzionalità tecniche essenziali al funzionamento del sito (come la memorizzazione locale della preferenza per il tema chiaro/scuro), che non comportano alcun tracciamento dell'utente.
 
 ## 6. Diritti degli Utenti
 

@@ -95,7 +95,7 @@ Fatta eccezione per quanto diversamente stabilito nel presente documento, l'even
 
 ## Interpretazione in Caso di Traduzione
 
-I presenti Termini e Condizioni possono essere stati tradotti qualora resi disponibili in lingue diverse dall'inglese. Lei conviene che il testo originale in lingua inglese prevarrà in caso di controversia.
+I presenti Termini e Condizioni sono redatti in lingua italiana e possono essere stati tradotti in altre lingue. Lei conviene che il testo originale in lingua italiana prevarrà in caso di controversia.
 
 ## Modifiche ai Presenti Termini e Condizioni
 

@@ -16,7 +16,7 @@ Parmi les données à caractère personnel qui peuvent être collectées automat
 - Numéro de téléphone
 - Adresse IP
 - Informations techniques sur l’appareil et le navigateur utilisé
-- Cookies techniques et analytiques (voir point 5)
+- Éventuels cookies ou fonctionnalités techniques essentiels (voir point 5)
 
 ## 3. Finalités et base légale du traitement
 Les données à caractère personnel seront traitées aux fins suivantes :
@@ -35,7 +35,7 @@ Le traitement repose sur :
 Les données sont traitées de manière licite, loyale et transparente au moyen d’outils électroniques ou papier, dans le respect des mesures de sécurité prévues par le RGPD. Seul le personnel autorisé y a accès, et elles ne seront ni diffusées ni communiquées à des tiers sauf pour satisfaire à des obligations légales spécifiques.
 
 ## 5. Utilisation des cookies
-Notre site utilise des cookies techniques et analytiques pour améliorer l’expérience utilisateur et recueillir des informations statistiques sur l’utilisation du site. Pour plus d’informations, consultez notre [Politique de cookies](#).
+Notre site n'utilise ni cookies de profilage ni outils d'analyse tiers. Seules des fonctionnalités techniques essentielles au fonctionnement du site peuvent être employées (comme la mémorisation locale de la préférence de thème clair/sombre), sans aucun traçage de l'utilisateur.
 
 ## 6. Droits des utilisateurs
 Conformément aux articles 15 à 22 du RGPD, vous disposez des droits suivants :

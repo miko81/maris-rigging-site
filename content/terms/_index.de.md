@@ -95,7 +95,7 @@ Sofern hierin nicht anders bestimmt, beeinträchtigt die Nichtausübung eines Re
 
 ## Auslegung bei Übersetzungen
 
-Diese Allgemeinen Geschäftsbedingungen können übersetzt worden sein, sofern sie in anderen Sprachen als Englisch verfügbar gemacht wurden. Sie erklären sich damit einverstanden, dass im Streitfall der englische Originaltext maßgebend ist.
+Diese Allgemeinen Geschäftsbedingungen sind in italienischer Sprache verfasst und können in andere Sprachen übersetzt worden sein. Sie erklären sich damit einverstanden, dass im Streitfall der italienische Originaltext maßgebend ist.
 
 ## Änderungen dieser Allgemeinen Geschäftsbedingungen
 

@@ -16,7 +16,7 @@ The personal data that may be collected automatically or voluntarily provided by
 - Phone number
 - IP address
 - Technical information about the device and browser used
-- Technical and analytics cookies (see section 5)
+- Essential technical cookies or features, if any (see section 5)
 
 ## 3. Purposes and Legal Basis for Processing
 Personal data will be processed for the following purposes:
@@ -35,7 +35,7 @@ The processing is based on:
 Data is processed lawfully, fairly, and transparently using electronic or paper-based tools, in compliance with the security measures required by the GDPR. Access is limited to authorized personnel only, and data will not be disclosed or shared with third parties except where necessary to comply with specific legal obligations.
 
 ## 5. Use of Cookies
-Our website uses technical and analytics cookies to enhance user experience and collect statistical information about site usage. For more details, please refer to our [Cookie Policy](#).
+Our website does not use profiling cookies or third-party analytics tools. Only technical features essential to the operation of the site may be employed (such as locally storing your light/dark theme preference), which involve no tracking of the user.
 
 ## 6. User Rights
 Pursuant to Articles 15–22 of the GDPR, you have the right to:

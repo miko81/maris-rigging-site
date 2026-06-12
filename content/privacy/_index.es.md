@@ -16,7 +16,7 @@ Entre los datos personales que podrían recogerse automáticamente o ser facilit
 - Número de teléfono
 - Dirección IP
 - Información técnica sobre el dispositivo y el navegador utilizado
-- Cookies técnicas y analíticas (ver apartado 5)
+- Eventuales cookies o funcionalidades técnicas esenciales (ver apartado 5)
 
 ## 3. Finalidades y Base Jurídica del Tratamiento
 Los datos personales serán tratados con las siguientes finalidades:
@@ -35,7 +35,7 @@ El tratamiento de los datos se basa en:
 Los datos se tratan de forma lícita, leal y transparente mediante herramientas electrónicas o en papel, respetando las medidas de seguridad previstas por el RGPD. Solo el personal autorizado podrá acceder a ellos, y no se difundirán ni comunicarán a terceros salvo para cumplir con obligaciones legales específicas.
 
 ## 5. Uso de Cookies
-Nuestro sitio utiliza cookies técnicas y de analítica para mejorar la experiencia del usuario y recopilar información estadística sobre el uso del sitio. Para más información, consulta nuestra [Política de Cookies](#).
+Nuestro sitio no utiliza cookies de perfilado ni herramientas de análisis de terceros. Únicamente pueden emplearse funcionalidades técnicas esenciales para el funcionamiento del sitio (como el almacenamiento local de la preferencia de tema claro/oscuro), que no implican ningún rastreo del usuario.
 
 ## 6. Derechos de los Usuarios
 Conforme a los artículos 15 a 22 del RGPD, usted tiene derecho a:
