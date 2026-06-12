@@ -9,7 +9,7 @@ La presente informativa sulla privacy è redatta da **Ma.Ri.S. Rigging di Michel
 
 ## 1. Oggetto della Privacy Policy
 
-La presente informativa ha come obiettivo fornire agli utenti del nostro sito web [https://www.maris-rigging.it ](https://www.maris-rigging.it ) informazioni chiare e trasparenti riguardo al trattamento dei loro dati personali raccolti durante la navigazione sul sito o l’utilizzo dei nostri servizi online.
+La presente informativa ha come obiettivo fornire agli utenti del nostro sito web [https://marisrigging.it](https://marisrigging.it) informazioni chiare e trasparenti riguardo al trattamento dei loro dati personali raccolti durante la navigazione sul sito o l’utilizzo dei nostri servizi online.
 
 ## 2. Tipologie di Dati Raccolti
 

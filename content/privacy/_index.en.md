@@ -7,7 +7,7 @@ description: "Privacy Policy."
 This Privacy Policy is issued by **Ma.Ri.S. Rigging di Michele Cannarsa**, with registered office at Via Pietro Susini, 16, 07024 La Maddalena (OT), Italy, in its capacity as the **Data Controller** for personal data pursuant to Article 4 of the General Data Protection Regulation (GDPR – EU Regulation 2016/679).
 
 ## 1. Purpose of this Privacy Policy
-The purpose of this notice is to provide users of our website [https://www.maris-rigging.it](https://www.maris-rigging.it) with clear and transparent information regarding the processing of their personal data collected while browsing the site or using our online services.
+The purpose of this notice is to provide users of our website [https://marisrigging.it](https://marisrigging.it) with clear and transparent information regarding the processing of their personal data collected while browsing the site or using our online services.
 
 ## 2. Types of Data Collected
 The personal data that may be collected automatically or voluntarily provided by users may include:

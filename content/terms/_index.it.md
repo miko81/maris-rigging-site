@@ -22,7 +22,7 @@ Ai fini dei presenti Termini e Condizioni:
 - **Servizio**: si riferisce al Sito Web.
 - **Termini e Condizioni** (indicati anche come "Termini") indicano i presenti Termini e Condizioni, che costituiscono l'intero accordo tra Lei e l'Azienda riguardo all'utilizzo del Servizio. I presenti Termini e Condizioni sono stati redatti con l'aiuto del generatore di Termini e Condizioni.
 - **Servizi di social media di terze parti**: indica eventuali servizi o contenuti (inclusi dati, informazioni, prodotti o servizi) forniti da soggetti terzi, visualizzabili, inclusi o resi disponibili tramite il Servizio.
-- **Sito Web**: si riferisce al sito web di ASG LAB, accessibile all’indirizzo [https://www.maris-rigging.it ](https://www.maris-rigging.it ).
+- **Sito Web**: si riferisce al sito web di Ma.Ri.S. Rigging, accessibile all’indirizzo [https://marisrigging.it](https://marisrigging.it).
 - **Utente** (indicato come "Lei" o "Utente"): indica la persona fisica che accede al Servizio o lo utilizza, oppure l'azienda o altra entità giuridica nella cui rappresentanza tale persona agisce, ove applicabile.
 
 ## Accettazione

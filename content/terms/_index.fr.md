@@ -19,7 +19,7 @@ Aux fins des présentes Conditions Générales d'Utilisation :
 - **Service** désigne le Site Web.
 - **Conditions Générales d'Utilisation** (également désignées comme « Conditions ») désignent les présentes Conditions Générales d'Utilisation qui constituent l'intégralité de l'accord entre Vous et la Société concernant l'utilisation du Service. Ces Conditions Générales d'Utilisation ont été rédigées avec l'aide d'un générateur de Conditions Générales d'Utilisation.
 - **Services de médias sociaux tiers** désigne tout service ou contenu (y compris des données, informations, produits ou services) fourni par un tiers qui peut être affiché, inclus ou rendu disponible par le Service.
-- **Site Web** désigne le site web d'ASG LAB, accessible à l'adresse [https://www.maris-rigging.it](https://www.maris-rigging.it).
+- **Site Web** désigne le site web de Ma.Ri.S. Rigging, accessible à l'adresse [https://marisrigging.it](https://marisrigging.it).
 - **Vous** désigne la personne physique accédant ou utilisant le Service, ou la société ou autre entité juridique au nom de laquelle cette personne agit, le cas échéant.
 
 ## Acceptation

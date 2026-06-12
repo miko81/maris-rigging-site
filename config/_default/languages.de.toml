@@ -1,0 +1,25 @@
+disabled = false
+languageCode = "de"
+languageName = "Deutsch"
+weight = 5
+title = "Ma.Ri.S Rigging"
+
+[params]
+  displayName = "Deutsch"
+  isoCode = "de"
+  rtl = false
+  dateFormat = "2. January 2006"
+  logo = "img/logo-icon.png"
+
+[params.author]
+   name = "Ma.Ri.S. Rigging"
+   email = "michele@marisrigging.it"
+   image = "img/icon-light.png"
+   imageQuality = 96
+   headline = "von Michele Cannarsa"
+   bio = "Professionelles Yacht-Rigging in Nordsardinien."
+   links = [
+     { email = "mailto:michele@marisrigging.it" },
+     { telegram = "https://t.me/+393490867235" },
+     { whatsapp = "https://wa.me/+393490867235" },
+   ]

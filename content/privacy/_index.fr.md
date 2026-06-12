@@ -7,7 +7,7 @@ description: "Politique de confidentialité."
 La présente politique de confidentialité est établie par **Ma.Ri.S. Rigging di Michele Cannarsa**, dont le siège social est situé Via Pietro Susini, 16, 07024 La Maddalena (OT), Italie, en qualité de **responsable du traitement** des données à caractère personnel au sens de l’article 4 du Règlement général sur la protection des données (RGPD – Règlement UE 2016/679).
 
 ## 1. Objet de la présente politique de confidentialité
-La présente information a pour objectif de fournir aux utilisateurs de notre site web [https://www.maris-rigging.it](https://www.maris-rigging.it) des informations claires et transparentes concernant le traitement de leurs données à caractère personnel collectées lors de la navigation sur le site ou de l’utilisation de nos services en ligne.
+La présente information a pour objectif de fournir aux utilisateurs de notre site web [https://marisrigging.it](https://marisrigging.it) des informations claires et transparentes concernant le traitement de leurs données à caractère personnel collectées lors de la navigation sur le site ou de l’utilisation de nos services en ligne.
 
 ## 2. Types de données collectées
 Parmi les données à caractère personnel qui peuvent être collectées automatiquement ou fournies volontairement par les utilisateurs figurent :
