@@ -1,0 +1,453 @@
+From 77715f14c7561b748222f5fde3c5dd29fba6ee83 Mon Sep 17 00:00:00 2001
+From: Andrea <andrea@asglab.it>
+Date: Fri, 12 Jun 2026 15:52:21 +0000
+Subject: [PATCH] Aggiunta lingua tedesca; corretti nome azienda e URL in
+ terms/privacy
+
+---
+ config/_default/languages.de.toml |  25 +++++++
+ config/_default/menus.de.toml     |  19 +++++
+ content/_index.de.md              |   9 +++
+ content/contacts/_index.de.md     |  24 +++++++
+ content/privacy/_index.de.md      |  72 +++++++++++++++++++
+ content/privacy/_index.en.md      |   2 +-
+ content/privacy/_index.es.md      |   2 +-
+ content/privacy/_index.fr.md      |   2 +-
+ content/privacy/_index.it.md      |   2 +-
+ content/services/_index.de.md     |  13 ++++
+ content/terms/_index.de.md        | 111 ++++++++++++++++++++++++++++++
+ content/terms/_index.en.md        |   2 +-
+ content/terms/_index.es.md        |   2 +-
+ content/terms/_index.fr.md        |   2 +-
+ content/terms/_index.it.md        |   2 +-
+ 15 files changed, 281 insertions(+), 8 deletions(-)
+ create mode 100644 config/_default/languages.de.toml
+ create mode 100644 config/_default/menus.de.toml
+ create mode 100644 content/_index.de.md
+ create mode 100644 content/contacts/_index.de.md
+ create mode 100644 content/privacy/_index.de.md
+ create mode 100644 content/services/_index.de.md
+ create mode 100644 content/terms/_index.de.md
+
+diff --git a/config/_default/languages.de.toml b/config/_default/languages.de.toml
+new file mode 100644
+index 0000000..dd6552a
+--- /dev/null
++++ b/config/_default/languages.de.toml
+@@ -0,0 +1,25 @@
++disabled = false
++languageCode = "de"
++languageName = "Deutsch"
++weight = 5
++title = "Ma.Ri.S Rigging"
++
++[params]
++  displayName = "Deutsch"
++  isoCode = "de"
++  rtl = false
++  dateFormat = "2. January 2006"
++  logo = "img/logo-icon.png"
++
++[params.author]
++   name = "Ma.Ri.S. Rigging"
++   email = "michele@marisrigging.it"
++   image = "img/icon-light.png"
++   imageQuality = 96
++   headline = "von Michele Cannarsa"
++   bio = "Professionelles Yacht-Rigging in Nordsardinien."
++   links = [
++     { email = "mailto:michele@marisrigging.it" },
++     { telegram = "https://t.me/+393490867235" },
++     { whatsapp = "https://wa.me/+393490867235" },
++   ]
+diff --git a/config/_default/menus.de.toml b/config/_default/menus.de.toml
+new file mode 100644
+index 0000000..4bde084
+--- /dev/null
++++ b/config/_default/menus.de.toml
+@@ -0,0 +1,19 @@
++[[main]]
++  name = "Leistungen"
++  pageRef = "/services/"
++  weight = 10
++
++[[main]]
++  name = "Kontakt"
++  pageRef = "/contacts/"
++  weight = 20
++
++[[footer]]
++  name = "Nutzungsbedingungen"
++  pageRef = "terms"
++  weight = 10
++
++[[footer]]
++  name = "Datenschutz"
++  pageRef = "privacy"
++  weight = 20
+diff --git a/content/_index.de.md b/content/_index.de.md
+new file mode 100644
+index 0000000..05e31a8
+--- /dev/null
++++ b/content/_index.de.md
+@@ -0,0 +1,9 @@
++---
++title: "Ma.Ri.S Rigging von Michele Cannarsa"
++---
++
++## Über mich
++
++Segler seit jeher, habe ich umfangreiche Erfahrung in der Regattawelt gesammelt, sowohl auf Jollen als auch auf Kielbooten. Im Laufe der Jahre hat sich diese Leidenschaft auf natürliche Weise zu einem Beruf entwickelt, der ganz der Technik und der Sicherheit auf See gewidmet ist.
++
++Seit 1999 war ich als Ausbilder an einer der größten nationalen Segelschulen Italiens tätig, wo ich anschließend als Operativer Koordinator die Rolle des **Technischen Leiters und Sicherheitsverantwortlichen** übernahm, bis 2024. Dank dieser soliden Erfahrung in der Verwaltung und Wartung ganzer Flotten stelle ich heute meine Kompetenz in den Dienst der Eigner, um ihnen ein sicheres und sorgenfreies Segeln zu gewährleisten.
+diff --git a/content/contacts/_index.de.md b/content/contacts/_index.de.md
+new file mode 100644
+index 0000000..a802a1c
+--- /dev/null
++++ b/content/contacts/_index.de.md
+@@ -0,0 +1,24 @@
++---
++title: "Kontakt"
++description: "Kontakt"
++---
++
++**Ma.Ri.S Rigging** steht Ihnen jederzeit für Auskünfte, Kostenvoranschläge oder technische Unterstützung rund um Segelyachten zur Verfügung.
++
++**Einsatzbasis**:
++La Maddalena - Palau - Olbia
++
++**Verfügbar**: Einsätze auf Anfrage in ganz Sardinien
++
++> Schnelle Einsätze im Hafen 7/7 (wetterabhängig).
++
++{{< icon "email" >}}  [michele@marisrigging.it](mailto:michele@marisrigging.it)  
++{{< icon "phone" >}}  [+39 349 0867235](tel:+393490867235)  
++{{< icon "whatsapp" >}}  [Schreiben Sie uns auf WhatsApp](https://wa.me/+393490867235)  
++{{< icon "telegram" >}}  [Schreiben Sie uns auf Telegram](https://t.me/+393490867235)  
++
++## Firmendaten
++
++**Adresse:** Via Pietro Susini, 16, 07024 La Maddalena (OT)  
++**USt-IdNr. (P.IVA):** 03063600906  
++**Steuernummer (C.F.):** CNNMHL81L24G702L  
+diff --git a/content/privacy/_index.de.md b/content/privacy/_index.de.md
+new file mode 100644
+index 0000000..62661e4
+--- /dev/null
++++ b/content/privacy/_index.de.md
+@@ -0,0 +1,72 @@
++---
++title: "Datenschutzerklärung"
++description: "Datenschutzerklärung."
++---
++
++**Letzte Änderung:** 15. Februar 2026  
++
++Diese Datenschutzerklärung wird von **Ma.Ri.S. Rigging di Michele Cannarsa**, mit Sitz in Via Pietro Susini, 16, 07024 La Maddalena (OT), in seiner Eigenschaft als Verantwortlicher für die Verarbeitung personenbezogener Daten im Sinne von Artikel 4 der Datenschutz-Grundverordnung (DSGVO – Verordnung (EU) 2016/679) verfasst.
++
++## 1. Gegenstand der Datenschutzerklärung
++
++Ziel dieser Erklärung ist es, den Nutzern unserer Website [https://marisrigging.it](https://marisrigging.it) klare und transparente Informationen über die Verarbeitung ihrer personenbezogenen Daten zu geben, die beim Besuch der Website oder bei der Nutzung unserer Online-Dienste erhoben werden.
++
++## 2. Arten der erhobenen Daten
++
++Zu den personenbezogenen Daten, die automatisch erhoben oder freiwillig von den Nutzern bereitgestellt werden können, gehören:
++- Vor- und Nachname
++- E-Mail-Adresse
++- Telefonnummer
++- IP-Adresse
++- Technische Informationen über das verwendete Gerät und den Browser
++- Technische und Analyse-Cookies (siehe Punkt 5)
++
++## 3. Zwecke und Rechtsgrundlage der Verarbeitung
++
++Die personenbezogenen Daten werden zu folgenden Zwecken verarbeitet:
++- Beantwortung von Kontaktanfragen über Formulare oder E-Mail
++- Bereitstellung von Informationen über die angebotenen Produkte/Dienstleistungen
++- Verbesserung des Nutzererlebnisses und Optimierung der Funktionsweise der Website
++- Erfüllung gesetzlicher, buchhalterischer oder steuerlicher Pflichten
++
++Die Verarbeitung der Daten beruht auf:
++- Einwilligung des Nutzers (z. B. für den Versand von Newslettern)
++- Durchführung vorvertraglicher oder vertraglicher Maßnahmen
++- Gesetzlichen Verpflichtungen
++- Berechtigtem Interesse des Verantwortlichen (z. B. für die Sicherheit der Website oder anonyme statistische Auswertungen)
++
++## 4. Art der Verarbeitung
++
++Die Daten werden rechtmäßig, fair und transparent verarbeitet, mit elektronischen oder papierbasierten Mitteln, unter Einhaltung der von der DSGVO vorgesehenen Sicherheitsmaßnahmen. Nur autorisiertes Personal hat Zugang zu den Daten; sie werden weder verbreitet noch an Dritte weitergegeben, außer zur Erfüllung spezifischer gesetzlicher Pflichten.
++
++## 5. Verwendung von Cookies
++
++Unsere Website verwendet technische und Analyse-Cookies, um das Nutzererlebnis zu verbessern und statistische Informationen über die Nutzung der Website zu sammeln. Weitere Informationen finden Sie in unserer [Cookie-Richtlinie](#).
++
++## 6. Rechte der Nutzer
++
++Gemäß den Artikeln 15 bis 22 der DSGVO haben Sie das Recht:
++- Auf Ihre personenbezogenen Daten zuzugreifen
++- Deren Berichtigung oder Löschung zu verlangen
++- Die Verarbeitung einzuschränken
++- Der Verarbeitung zu widersprechen
++- Die Übertragbarkeit der Daten zu verlangen
++
++Sie können diese Rechte ausüben, indem Sie eine Anfrage per E-Mail senden an: **michele@marisrigging.it**
++
++Sie haben außerdem das Recht, eine Beschwerde bei der italienischen Datenschutzbehörde (Garante per la Protezione dei Dati Personali, [www.garanteprivacy.it](https://www.garanteprivacy.it)) einzureichen, wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer Daten rechtswidrig erfolgt.
++
++## 7. Aufbewahrung der Daten
++
++Die personenbezogenen Daten werden so lange aufbewahrt, wie es zur Erreichung der angegebenen Zwecke erforderlich ist, vorbehaltlich etwaiger gesetzlicher Aufbewahrungspflichten.
++
++## 8. Änderungen dieser Datenschutzerklärung
++
++Diese Datenschutzerklärung kann regelmäßig aktualisiert werden, um sie an gesetzliche Änderungen oder an die Funktionsweise der Website anzupassen. Jede Änderung wird auf dieser Seite mit dem zu Beginn des Dokuments angegebenen Aktualisierungsdatum veröffentlicht.
++
++## 9. Kontakt
++
++Für weitere Informationen oder Erläuterungen zu dieser Datenschutzerklärung können Sie uns kontaktieren:
++
++{{< icon "email" >}}  [michele@marisrigging.it](mailto:michele@marisrigging.it)  
++{{< icon "phone" >}}  [+39 349 0867235](tel:+393490867235)  
+diff --git a/content/privacy/_index.en.md b/content/privacy/_index.en.md
+index db71b62..8ff1947 100755
+--- a/content/privacy/_index.en.md
++++ b/content/privacy/_index.en.md
+@@ -7,7 +7,7 @@ description: "Privacy Policy."
+ This Privacy Policy is issued by **Ma.Ri.S. Rigging di Michele Cannarsa**, with registered office at Via Pietro Susini, 16, 07024 La Maddalena (OT), Italy, in its capacity as the **Data Controller** for personal data pursuant to Article 4 of the General Data Protection Regulation (GDPR – EU Regulation 2016/679).
+ 
+ ## 1. Purpose of this Privacy Policy
+-The purpose of this notice is to provide users of our website [https://www.maris-rigging.it](https://www.maris-rigging.it) with clear and transparent information regarding the processing of their personal data collected while browsing the site or using our online services.
++The purpose of this notice is to provide users of our website [https://marisrigging.it](https://marisrigging.it) with clear and transparent information regarding the processing of their personal data collected while browsing the site or using our online services.
+ 
+ ## 2. Types of Data Collected
+ The personal data that may be collected automatically or voluntarily provided by users may include:
+diff --git a/content/privacy/_index.es.md b/content/privacy/_index.es.md
+index eb49008..eb10616 100755
+--- a/content/privacy/_index.es.md
++++ b/content/privacy/_index.es.md
+@@ -7,7 +7,7 @@ description: "Política de Privacidad."
+ La presente Política de Privacidad es emitida por **Ma.Ri.S. Rigging di Michele Cannarsa**, con domicilio social en Via Pietro Susini, 16, 07024 La Maddalena (OT), Italia, en calidad de **Responsable del tratamiento** de los datos personales conforme al Artículo 4 del Reglamento General de Protección de Datos (RGPD – Reglamento UE 2016/679).
+ 
+ ## 1. Objeto de la Política de Privacidad
+-El objetivo de la presente información es proporcionar a los usuarios de nuestro sitio web [https://www.maris-rigging.it](https://www.maris-rigging.it) información clara y transparente sobre el tratamiento de sus datos personales recogidos durante la navegación en el sitio o el uso de nuestros servicios online.
++El objetivo de la presente información es proporcionar a los usuarios de nuestro sitio web [https://marisrigging.it](https://marisrigging.it) información clara y transparente sobre el tratamiento de sus datos personales recogidos durante la navegación en el sitio o el uso de nuestros servicios online.
+ 
+ ## 2. Tipos de Datos Recogidos
+ Entre los datos personales que podrían recogerse automáticamente o ser facilitados voluntariamente por los usuarios pueden incluirse:
+diff --git a/content/privacy/_index.fr.md b/content/privacy/_index.fr.md
+index 1e7b408..96f6f28 100755
+--- a/content/privacy/_index.fr.md
++++ b/content/privacy/_index.fr.md
+@@ -7,7 +7,7 @@ description: "Politique de confidentialité."
+ La présente politique de confidentialité est établie par **Ma.Ri.S. Rigging di Michele Cannarsa**, dont le siège social est situé Via Pietro Susini, 16, 07024 La Maddalena (OT), Italie, en qualité de **responsable du traitement** des données à caractère personnel au sens de l’article 4 du Règlement général sur la protection des données (RGPD – Règlement UE 2016/679).
+ 
+ ## 1. Objet de la présente politique de confidentialité
+-La présente information a pour objectif de fournir aux utilisateurs de notre site web [https://www.maris-rigging.it](https://www.maris-rigging.it) des informations claires et transparentes concernant le traitement de leurs données à caractère personnel collectées lors de la navigation sur le site ou de l’utilisation de nos services en ligne.
++La présente information a pour objectif de fournir aux utilisateurs de notre site web [https://marisrigging.it](https://marisrigging.it) des informations claires et transparentes concernant le traitement de leurs données à caractère personnel collectées lors de la navigation sur le site ou de l’utilisation de nos services en ligne.
+ 
+ ## 2. Types de données collectées
+ Parmi les données à caractère personnel qui peuvent être collectées automatiquement ou fournies volontairement par les utilisateurs figurent :
+diff --git a/content/privacy/_index.it.md b/content/privacy/_index.it.md
+index 733b716..0e61713 100755
+--- a/content/privacy/_index.it.md
++++ b/content/privacy/_index.it.md
+@@ -9,7 +9,7 @@ La presente informativa sulla privacy è redatta da **Ma.Ri.S. Rigging di Michel
+ 
+ ## 1. Oggetto della Privacy Policy
+ 
+-La presente informativa ha come obiettivo fornire agli utenti del nostro sito web [https://www.maris-rigging.it ](https://www.maris-rigging.it ) informazioni chiare e trasparenti riguardo al trattamento dei loro dati personali raccolti durante la navigazione sul sito o l’utilizzo dei nostri servizi online.
++La presente informativa ha come obiettivo fornire agli utenti del nostro sito web [https://marisrigging.it](https://marisrigging.it) informazioni chiare e trasparenti riguardo al trattamento dei loro dati personali raccolti durante la navigazione sul sito o l’utilizzo dei nostri servizi online.
+ 
+ ## 2. Tipologie di Dati Raccolti
+ 
+diff --git a/content/services/_index.de.md b/content/services/_index.de.md
+new file mode 100644
+index 0000000..5f9266d
+--- /dev/null
++++ b/content/services/_index.de.md
+@@ -0,0 +1,13 @@
++---
++title: "Leistungen"
++---
++
++## Meine Leistungen
++
++- **Check-up und Diagnose:** umfassende Analyse der Decksausrüstung zur Überprüfung ihres Zustands und ihrer Funktionsfähigkeit
++- **Optimierung der Manöver:** individuelle Auslegung des Decksplans, um die Bedienung des Bootes flüssiger und intuitiver zu machen
++- **Überholung der Ausrüstung:** professionelle Wartung von Winschen, Blöcken und allen Deckskomponenten
++- **Stehendes Gut:** sorgfältige Kontrolle von Mast und Rigg. Als für Höhenarbeiten qualifizierter Rigger führe ich Inspektionen und Eingriffe direkt im Masttopp durch
++- **Laufendes Gut:** Bewertung und Austausch von Fallen und Schoten mit Materialien der neuesten Generation
++- **Professionelle Spleißarbeiten:** handwerklich gefertigte Spleiße an jeder Art von Tauwerk
++- **Komposit-Reparaturen:** bei Bedarf gezielte Arbeiten an Harzen und Verbundwerkstoffen
+diff --git a/content/terms/_index.de.md b/content/terms/_index.de.md
+new file mode 100644
+index 0000000..cab7713
+--- /dev/null
++++ b/content/terms/_index.de.md
+@@ -0,0 +1,111 @@
++---
++title: "Allgemeine Geschäftsbedingungen"
++description: "Allgemeine Geschäftsbedingungen."
++---
++
++**Letzte Änderung:** 15. Februar 2026  
++
++Bitte lesen Sie die folgenden Bedingungen sorgfältig durch, bevor Sie unseren Dienst nutzen.
++
++## Auslegung und Begriffsbestimmungen
++
++### Auslegung  
++Wörter, deren Anfangsbuchstabe großgeschrieben ist, haben die nachfolgend definierten Bedeutungen. Die hier aufgeführten Definitionen gelten unabhängig davon, ob sie im Singular oder im Plural erscheinen.
++
++### Begriffsbestimmungen  
++Im Sinne dieser Allgemeinen Geschäftsbedingungen gilt:
++
++- **Verbundenes Unternehmen**: bezeichnet eine Einheit, die eine Partei kontrolliert, von ihr kontrolliert wird oder mit ihr unter gemeinsamer Kontrolle steht, wobei "Kontrolle" den Besitz von mindestens 50 % der Anteile, Gesellschaftsanteile oder sonstigen stimmberechtigten Wertpapiere für die Wahl von Geschäftsführern oder anderen Leitungsorganen bedeutet.
++- **Land**: bezieht sich auf: Italien.
++- **Unternehmen** (in dieser Vereinbarung als "Unternehmen", "Wir", "Uns" oder "Unser" bezeichnet) bezieht sich auf Ma.Ri.S. Rigging di Michele Cannarsa, Via Pietro Susini, 16, 07024 La Maddalena (OT).
++- **Gerät**: jedes Gerät, das auf den Dienst zugreifen kann, wie Computer, Mobiltelefone oder Tablets.
++- **Dienst**: bezieht sich auf die Website.
++- **Allgemeine Geschäftsbedingungen** (auch als "Bedingungen" bezeichnet) bezeichnen diese Allgemeinen Geschäftsbedingungen, die die gesamte Vereinbarung zwischen Ihnen und dem Unternehmen über die Nutzung des Dienstes darstellen. Diese Allgemeinen Geschäftsbedingungen wurden mit Hilfe eines AGB-Generators erstellt.
++- **Social-Media-Dienste Dritter**: bezeichnet Dienste oder Inhalte (einschließlich Daten, Informationen, Produkte oder Dienstleistungen), die von Dritten bereitgestellt werden und über den Dienst angezeigt, eingebunden oder verfügbar gemacht werden können.
++- **Website**: bezieht sich auf die Website von Ma.Ri.S. Rigging, erreichbar unter [https://marisrigging.it](https://marisrigging.it).
++- **Nutzer** (als "Sie" oder "Nutzer" bezeichnet): bezeichnet die natürliche Person, die auf den Dienst zugreift oder ihn nutzt, oder das Unternehmen bzw. die juristische Person, in deren Namen diese Person handelt, soweit zutreffend.
++
++## Annahme
++
++Diese Allgemeinen Geschäftsbedingungen regeln die Nutzung des Dienstes und stellen die verbindliche Vereinbarung zwischen Ihnen und dem Unternehmen dar. Sie legen die Rechte und Pflichten aller Nutzer in Bezug auf die Nutzung des Dienstes fest.
++
++Der Zugang zum Dienst und seine Nutzung setzen voraus, dass Sie diese Allgemeinen Geschäftsbedingungen akzeptieren und einhalten. Sie gelten für alle Besucher, Nutzer und sonstigen Personen, die auf den Dienst zugreifen oder ihn nutzen.
++
++Durch den Zugriff auf den Dienst oder dessen Nutzung erklären Sie sich mit diesen Allgemeinen Geschäftsbedingungen einverstanden und an sie gebunden. Sollten Sie mit einem Teil der Bedingungen nicht einverstanden sein, dürfen Sie nicht auf den Dienst zugreifen.
++
++Sie erklären zudem, dass Sie über achtzehn Jahre alt sind. Das Unternehmen gestattet Personen unter 18 Jahren die Nutzung des Dienstes nicht.
++
++Der Zugang zum Dienst und seine Nutzung setzen außerdem voraus, dass Sie unsere Datenschutzerklärung akzeptieren und einhalten. Unsere Datenschutzerklärung beschreibt unsere Verfahren zur Erhebung, Nutzung und Offenlegung Ihrer personenbezogenen Daten bei der Nutzung der Anwendung oder der Website und informiert Sie über Ihre Datenschutzrechte und den gesetzlichen Schutz. Bitte lesen Sie unsere Datenschutzerklärung sorgfältig durch, bevor Sie unseren Dienst nutzen.
++
++## Links zu anderen Websites
++
++Unser Dienst kann Links zu Websites oder Diensten Dritter enthalten, die nicht im Eigentum oder unter der Kontrolle des Unternehmens stehen.
++
++Das Unternehmen hat keine Kontrolle über solche Websites und Dienste und übernimmt keine Verantwortung für deren Inhalte, Datenschutzrichtlinien oder Praktiken. Insbesondere kann das Unternehmen weder direkt noch indirekt für Schäden oder Verluste haftbar gemacht werden, die durch die Nutzung von oder das Vertrauen auf solche Inhalte, Produkte oder Dienstleistungen verursacht wurden oder verursacht worden sein sollen, die über diese Websites angeboten werden.
++
++Wir empfehlen Ihnen dringend, die Geschäftsbedingungen und Datenschutzrichtlinien jeder Website oder jedes Dienstes Dritter zu lesen, die Sie besuchen.
++
++## Beendigung
++
++Wir behalten uns das Recht vor, Ihren Zugang zum Dienst ohne Vorankündigung oder Haftung aus beliebigem Grund sofort zu beenden oder auszusetzen, unter anderem – jedoch nicht ausschließlich – wenn Sie gegen diese Allgemeinen Geschäftsbedingungen verstoßen.
++
++Im Falle der Beendigung erlischt Ihr Recht zur Nutzung des Dienstes mit sofortiger Wirkung.
++
++## Haftungsbeschränkung
++
++Unbeschadet etwaiger Ihnen entstandener Schäden ist die gesamte Haftung des Unternehmens und seiner Lieferanten im Rahmen dieser Bedingungen auf den von Ihnen über den Dienst tatsächlich gezahlten Betrag oder auf 100 EUR beschränkt, falls Sie über den Dienst keinen Kauf getätigt haben.
++
++Soweit nach geltendem Recht zulässig, haften das Unternehmen oder seine Lieferanten in keinem Fall für besondere, zufällige, indirekte oder Folgeschäden (einschließlich, aber nicht beschränkt auf Schäden durch entgangenen Gewinn, Verlust von Daten oder anderen Informationen, Betriebsunterbrechung, Personenschäden oder Verlust der Privatsphäre, die sich direkt oder indirekt aus der Nutzung oder der Unmöglichkeit der Nutzung des Dienstes, der Software oder der Hardware Dritter ergeben, die zusammen mit dem Dienst verwendet werden), selbst wenn das Unternehmen oder ein Lieferant über die Möglichkeit solcher Schäden informiert wurde und selbst wenn das vorgesehene Rechtsmittel seinen wesentlichen Zweck verfehlt.
++
++Einige Staaten erlauben den Ausschluss stillschweigender Garantien oder die Beschränkung der Haftung für zufällige oder Folgeschäden nicht; daher gelten einige der oben genannten Beschränkungen möglicherweise nicht für Sie. In diesen Fällen ist die Haftung jeder Partei auf das nach geltendem Recht zulässige Höchstmaß beschränkt.
++
++## Gewährleistungsausschluss ("wie besehen" und "wie verfügbar")
++
++Der Dienst wird "wie besehen" und "wie verfügbar" bereitgestellt, mit allen Mängeln und ohne jegliche Gewährleistung. Soweit nach geltendem Recht zulässig, schließt das Unternehmen im eigenen Namen sowie im Namen seiner verbundenen Unternehmen und der jeweiligen Lizenzgeber und Dienstleister ausdrücklich alle Gewährleistungen aus, seien sie ausdrücklich, stillschweigend, gesetzlich oder aus Handelsbräuchen, Vertragspraxis oder anderweitig abgeleitet, in Bezug auf den Dienst, einschließlich aller stillschweigenden Gewährleistungen der Marktgängigkeit, der Eignung für einen bestimmten Zweck, des Eigentums und der Nichtverletzung von Rechten.
++
++Ohne Einschränkung des Vorstehenden übernimmt das Unternehmen keine Gewährleistung oder Zusicherung, weder ausdrücklich noch stillschweigend, dass der Dienst Ihren Anforderungen entspricht, die erwarteten Ergebnisse erzielt, mit anderer Software, Anwendungen, Systemen oder Diensten kompatibel ist oder mit ihnen funktioniert, unterbrechungsfrei arbeitet, Leistungs- oder Zuverlässigkeitsstandards erfüllt, fehlerfrei ist oder dass etwaige Fehler behoben werden können.
++
++Darüber hinaus geben weder das Unternehmen noch einer seiner Lieferanten eine ausdrückliche oder stillschweigende Zusicherung oder Gewährleistung ab: (i) hinsichtlich des Betriebs oder der Verfügbarkeit des Dienstes oder der Genauigkeit, Zuverlässigkeit, Vollständigkeit oder Aktualität der darin enthaltenen Informationen, Inhalte, Materialien oder Produkte; (ii) dass der Dienst unterbrechungs- oder fehlerfrei sein wird; (iii) hinsichtlich der Genauigkeit, Zuverlässigkeit oder Gültigkeit von Informationen oder Inhalten, die über den Dienst übermittelt werden; oder (iv) dass der Dienst, seine Server, die Inhalte oder die im Namen des Unternehmens versandten E-Mails frei von Viren, Skripten, Trojanern, Würmern, Malware, Zeitbomben oder anderen schädlichen Komponenten sind.
++
++Einige Rechtsordnungen erlauben den Ausschluss bestimmter Gewährleistungen oder die Einschränkung gesetzlicher Verbraucherrechte nicht, sodass einige oder alle der oben genannten Ausschlüsse und Beschränkungen möglicherweise nicht für Sie gelten. In diesem Fall werden die genannten Ausschlüsse und Beschränkungen jedoch im größtmöglichen nach geltendem Recht zulässigen Umfang angewendet.
++
++## Anwendbares Recht
++
++Das Recht des Landes, unter Ausschluss der Kollisionsnormen, regelt diese Bedingungen und Ihre Nutzung des Dienstes. Ihre Nutzung der Anwendung kann auch anderen lokalen, staatlichen, nationalen oder internationalen Gesetzen unterliegen.
++
++## Streitbeilegung
++
++Sollte eine Streitigkeit oder ein Problem im Zusammenhang mit dem Dienst entstehen, erklären Sie sich bereit, zunächst eine informelle Lösung des Problems zu versuchen, indem Sie sich direkt an das Unternehmen wenden.
++
++## Für Nutzer der Europäischen Union (EU)
++
++Wenn Sie ein Verbraucher mit Wohnsitz in der Europäischen Union sind, kommen Ihnen alle zwingenden Bestimmungen des Rechts des Landes zugute, in dem Sie Ihren Wohnsitz haben.
++
++## Einhaltung der Gesetze der Vereinigten Staaten
++
++Sie erklären und garantieren, dass Sie sich nicht in einem Land befinden, das einem Embargo der US-Regierung unterliegt oder von den Vereinigten Staaten als terrorismusunterstützendes Land eingestuft wurde, und dass Sie nicht auf einer Liste verbotener oder eingeschränkter Parteien der US-Regierung aufgeführt sind.
++
++## Salvatorische Klausel und Verzicht
++
++### Salvatorische Klausel  
++Sollte eine Bestimmung dieser Bedingungen für ungültig oder nicht durchsetzbar erachtet werden, wird sie so ausgelegt und geändert, dass das ursprüngliche Ziel im größtmöglichen nach geltendem Recht zulässigen Umfang erreicht wird; die übrigen Bestimmungen bleiben in vollem Umfang wirksam.
++
++### Verzicht  
++Sofern hierin nicht anders bestimmt, beeinträchtigt die Nichtausübung eines Rechts oder der Verzicht auf die Erfüllung einer Verpflichtung gemäß diesen Bedingungen nicht das Recht, dieses künftig auszuüben, und der Verzicht auf die Geltendmachung eines Verstoßes stellt keinen Verzicht auf die Geltendmachung späterer Verstöße dar.
++
++## Auslegung bei Übersetzungen
++
++Diese Allgemeinen Geschäftsbedingungen können übersetzt worden sein, sofern sie in anderen Sprachen als Englisch verfügbar gemacht wurden. Sie erklären sich damit einverstanden, dass im Streitfall der englische Originaltext maßgebend ist.
++
++## Änderungen dieser Allgemeinen Geschäftsbedingungen
++
++Wir behalten uns das Recht vor, diese Bedingungen nach eigenem Ermessen jederzeit zu ändern oder zu ersetzen. Bei wesentlichen Änderungen verpflichten wir uns, eine angemessene Vorankündigung von in der Regel mindestens 30 Tagen vor Inkrafttreten der neuen Bestimmungen zu geben. Die Beurteilung, welche Änderung als wesentlich anzusehen ist, erfolgt nach unserem alleinigen Ermessen.
++
++Indem Sie nach Inkrafttreten der Änderungen weiterhin auf unseren Dienst zugreifen oder ihn nutzen, erklären Sie sich mit den neuen Bedingungen einverstanden. Sollten Sie mit den neuen Bedingungen ganz oder teilweise nicht einverstanden sein, bitten wir Sie, die Nutzung der Website und des Dienstes einzustellen.
++
++## Kontakt
++
++Bei Fragen zu diesen Allgemeinen Geschäftsbedingungen können Sie uns kontaktieren:
++
++{{< icon "email" >}}  [michele@marisrigging.it](mailto:michele@marisrigging.it)  
++{{< icon "phone" >}}  [+39 349 0867235](tel:+393490867235)  
+diff --git a/content/terms/_index.en.md b/content/terms/_index.en.md
+index 6f35fb8..88492c7 100755
+--- a/content/terms/_index.en.md
++++ b/content/terms/_index.en.md
+@@ -19,7 +19,7 @@ For the purposes of these Terms and Conditions:
+ - **Service** refers to the Website.
+ - **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. These Terms and Conditions have been created with the help of a Terms and Conditions Generator.
+ - **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
+-- **Website** refers to ASG LAB website, accessible from [https://www.maris-rigging.it](https://www.maris-rigging.it).
++- **Website** refers to the Ma.Ri.S. Rigging website, accessible from [https://marisrigging.it](https://marisrigging.it).
+ - **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+ 
+ ## Acknowledgment
+diff --git a/content/terms/_index.es.md b/content/terms/_index.es.md
+index a717af8..f5f4128 100755
+--- a/content/terms/_index.es.md
++++ b/content/terms/_index.es.md
+@@ -19,7 +19,7 @@ A los efectos de estos Términos y Condiciones:
+ - **Servicio** se refiere al Sitio Web.
+ - **Términos y Condiciones** (también denominados "Términos") significan estos Términos y Condiciones que constituyen el acuerdo completo entre Usted y la Empresa respecto al uso del Servicio. Estos Términos y Condiciones han sido redactados con la ayuda de un Generador de Términos y Condiciones.
+ - **Servicios de redes sociales de terceros** significa cualquier servicio o contenido (incluidos datos, información, productos o servicios) proporcionado por terceros que pueda mostrarse, incluirse o ponerse a disposición a través del Servicio.
+-- **Sitio Web** se refiere al sitio web de ASG LAB, accesible en [https://www.maris-rigging.it](https://www.maris-rigging.it).
++- **Sitio Web** se refiere al sitio web de Ma.Ri.S. Rigging, accesible en [https://marisrigging.it](https://marisrigging.it).
+ - **Usted** significa la persona física que accede o utiliza el Servicio, o la empresa u otra entidad legal en cuyo nombre dicha persona actúa, según corresponda.
+ 
+ ## Aceptación
+diff --git a/content/terms/_index.fr.md b/content/terms/_index.fr.md
+index a3109e6..0d55d0d 100755
+--- a/content/terms/_index.fr.md
++++ b/content/terms/_index.fr.md
+@@ -19,7 +19,7 @@ Aux fins des présentes Conditions Générales d'Utilisation :
+ - **Service** désigne le Site Web.
+ - **Conditions Générales d'Utilisation** (également désignées comme « Conditions ») désignent les présentes Conditions Générales d'Utilisation qui constituent l'intégralité de l'accord entre Vous et la Société concernant l'utilisation du Service. Ces Conditions Générales d'Utilisation ont été rédigées avec l'aide d'un générateur de Conditions Générales d'Utilisation.
+ - **Services de médias sociaux tiers** désigne tout service ou contenu (y compris des données, informations, produits ou services) fourni par un tiers qui peut être affiché, inclus ou rendu disponible par le Service.
+-- **Site Web** désigne le site web d'ASG LAB, accessible à l'adresse [https://www.maris-rigging.it](https://www.maris-rigging.it).
++- **Site Web** désigne le site web de Ma.Ri.S. Rigging, accessible à l'adresse [https://marisrigging.it](https://marisrigging.it).
+ - **Vous** désigne la personne physique accédant ou utilisant le Service, ou la société ou autre entité juridique au nom de laquelle cette personne agit, le cas échéant.
+ 
+ ## Acceptation
+diff --git a/content/terms/_index.it.md b/content/terms/_index.it.md
+index 8a08f34..d62a362 100755
+--- a/content/terms/_index.it.md
++++ b/content/terms/_index.it.md
+@@ -22,7 +22,7 @@ Ai fini dei presenti Termini e Condizioni:
+ - **Servizio**: si riferisce al Sito Web.
+ - **Termini e Condizioni** (indicati anche come "Termini") indicano i presenti Termini e Condizioni, che costituiscono l'intero accordo tra Lei e l'Azienda riguardo all'utilizzo del Servizio. I presenti Termini e Condizioni sono stati redatti con l'aiuto del generatore di Termini e Condizioni.
+ - **Servizi di social media di terze parti**: indica eventuali servizi o contenuti (inclusi dati, informazioni, prodotti o servizi) forniti da soggetti terzi, visualizzabili, inclusi o resi disponibili tramite il Servizio.
+-- **Sito Web**: si riferisce al sito web di ASG LAB, accessibile all’indirizzo [https://www.maris-rigging.it ](https://www.maris-rigging.it ).
++- **Sito Web**: si riferisce al sito web di Ma.Ri.S. Rigging, accessibile all’indirizzo [https://marisrigging.it](https://marisrigging.it).
+ - **Utente** (indicato come "Lei" o "Utente"): indica la persona fisica che accede al Servizio o lo utilizza, oppure l'azienda o altra entità giuridica nella cui rappresentanza tale persona agisce, ove applicabile.
+ 
+ ## Accettazione
+-- 
+2.43.0
+

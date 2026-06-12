@@ -23,6 +23,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="de"
+      href="https://marisrigging.it/de/contacts/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="es"
       href="https://marisrigging.it/es/contacts/"
     />
@@ -45,6 +50,11 @@
       rel="alternate"
       hreflang="fr"
       href="https://marisrigging.it/fr/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://marisrigging.it/de/"
     />
     <xhtml:link
       rel="alternate"
@@ -73,6 +83,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="de"
+      href="https://marisrigging.it/de/privacy/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="es"
       href="https://marisrigging.it/es/privacy/"
     />
@@ -98,6 +113,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="de"
+      href="https://marisrigging.it/de/services/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="es"
       href="https://marisrigging.it/es/services/"
     />
@@ -120,6 +140,11 @@
       rel="alternate"
       hreflang="fr"
       href="https://marisrigging.it/fr/terms/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://marisrigging.it/de/terms/"
     />
     <xhtml:link
       rel="alternate"
