@@ -1,0 +1,197 @@
+From f4bcfae1cde714390d2f69e0713b3d6fd0bf76d9 Mon Sep 17 00:00:00 2001
+From: Andrea <andrea@asglab.it>
+Date: Fri, 12 Jun 2026 15:57:48 +0000
+Subject: [PATCH] Privacy: chiarito uso cookie (nessun tracciamento); Termini:
+ prevale il testo italiano
+
+---
+ content/privacy/_index.de.md | 4 ++--
+ content/privacy/_index.en.md | 4 ++--
+ content/privacy/_index.es.md | 4 ++--
+ content/privacy/_index.fr.md | 4 ++--
+ content/privacy/_index.it.md | 4 ++--
+ content/terms/_index.de.md   | 2 +-
+ content/terms/_index.en.md   | 2 +-
+ content/terms/_index.es.md   | 2 +-
+ content/terms/_index.fr.md   | 2 +-
+ content/terms/_index.it.md   | 2 +-
+ 10 files changed, 15 insertions(+), 15 deletions(-)
+
+diff --git a/content/privacy/_index.de.md b/content/privacy/_index.de.md
+index 62661e4..7f27c26 100644
+--- a/content/privacy/_index.de.md
++++ b/content/privacy/_index.de.md
+@@ -19,7 +19,7 @@ Zu den personenbezogenen Daten, die automatisch erhoben oder freiwillig von den
+ - Telefonnummer
+ - IP-Adresse
+ - Technische Informationen über das verwendete Gerät und den Browser
+-- Technische und Analyse-Cookies (siehe Punkt 5)
++- Etwaige essenzielle technische Cookies oder Funktionen (siehe Punkt 5)
+ 
+ ## 3. Zwecke und Rechtsgrundlage der Verarbeitung
+ 
+@@ -41,7 +41,7 @@ Die Daten werden rechtmäßig, fair und transparent verarbeitet, mit elektronisc
+ 
+ ## 5. Verwendung von Cookies
+ 
+-Unsere Website verwendet technische und Analyse-Cookies, um das Nutzererlebnis zu verbessern und statistische Informationen über die Nutzung der Website zu sammeln. Weitere Informationen finden Sie in unserer [Cookie-Richtlinie](#).
++Unsere Website verwendet weder Profiling-Cookies noch Analysetools von Drittanbietern. Es können ausschließlich für den Betrieb der Website essenzielle technische Funktionen zum Einsatz kommen (wie die lokale Speicherung der Präferenz für das helle/dunkle Design), die keinerlei Tracking des Nutzers beinhalten.
+ 
+ ## 6. Rechte der Nutzer
+ 
+diff --git a/content/privacy/_index.en.md b/content/privacy/_index.en.md
+index 8ff1947..9460f26 100755
+--- a/content/privacy/_index.en.md
++++ b/content/privacy/_index.en.md
+@@ -16,7 +16,7 @@ The personal data that may be collected automatically or voluntarily provided by
+ - Phone number
+ - IP address
+ - Technical information about the device and browser used
+-- Technical and analytics cookies (see section 5)
++- Essential technical cookies or features, if any (see section 5)
+ 
+ ## 3. Purposes and Legal Basis for Processing
+ Personal data will be processed for the following purposes:
+@@ -35,7 +35,7 @@ The processing is based on:
+ Data is processed lawfully, fairly, and transparently using electronic or paper-based tools, in compliance with the security measures required by the GDPR. Access is limited to authorized personnel only, and data will not be disclosed or shared with third parties except where necessary to comply with specific legal obligations.
+ 
+ ## 5. Use of Cookies
+-Our website uses technical and analytics cookies to enhance user experience and collect statistical information about site usage. For more details, please refer to our [Cookie Policy](#).
++Our website does not use profiling cookies or third-party analytics tools. Only technical features essential to the operation of the site may be employed (such as locally storing your light/dark theme preference), which involve no tracking of the user.
+ 
+ ## 6. User Rights
+ Pursuant to Articles 15–22 of the GDPR, you have the right to:
+diff --git a/content/privacy/_index.es.md b/content/privacy/_index.es.md
+index eb10616..786d896 100755
+--- a/content/privacy/_index.es.md
++++ b/content/privacy/_index.es.md
+@@ -16,7 +16,7 @@ Entre los datos personales que podrían recogerse automáticamente o ser facilit
+ - Número de teléfono
+ - Dirección IP
+ - Información técnica sobre el dispositivo y el navegador utilizado
+-- Cookies técnicas y analíticas (ver apartado 5)
++- Eventuales cookies o funcionalidades técnicas esenciales (ver apartado 5)
+ 
+ ## 3. Finalidades y Base Jurídica del Tratamiento
+ Los datos personales serán tratados con las siguientes finalidades:
+@@ -35,7 +35,7 @@ El tratamiento de los datos se basa en:
+ Los datos se tratan de forma lícita, leal y transparente mediante herramientas electrónicas o en papel, respetando las medidas de seguridad previstas por el RGPD. Solo el personal autorizado podrá acceder a ellos, y no se difundirán ni comunicarán a terceros salvo para cumplir con obligaciones legales específicas.
+ 
+ ## 5. Uso de Cookies
+-Nuestro sitio utiliza cookies técnicas y de analítica para mejorar la experiencia del usuario y recopilar información estadística sobre el uso del sitio. Para más información, consulta nuestra [Política de Cookies](#).
++Nuestro sitio no utiliza cookies de perfilado ni herramientas de análisis de terceros. Únicamente pueden emplearse funcionalidades técnicas esenciales para el funcionamiento del sitio (como el almacenamiento local de la preferencia de tema claro/oscuro), que no implican ningún rastreo del usuario.
+ 
+ ## 6. Derechos de los Usuarios
+ Conforme a los artículos 15 a 22 del RGPD, usted tiene derecho a:
+diff --git a/content/privacy/_index.fr.md b/content/privacy/_index.fr.md
+index 96f6f28..60bde40 100755
+--- a/content/privacy/_index.fr.md
++++ b/content/privacy/_index.fr.md
+@@ -16,7 +16,7 @@ Parmi les données à caractère personnel qui peuvent être collectées automat
+ - Numéro de téléphone
+ - Adresse IP
+ - Informations techniques sur l’appareil et le navigateur utilisé
+-- Cookies techniques et analytiques (voir point 5)
++- Éventuels cookies ou fonctionnalités techniques essentiels (voir point 5)
+ 
+ ## 3. Finalités et base légale du traitement
+ Les données à caractère personnel seront traitées aux fins suivantes :
+@@ -35,7 +35,7 @@ Le traitement repose sur :
+ Les données sont traitées de manière licite, loyale et transparente au moyen d’outils électroniques ou papier, dans le respect des mesures de sécurité prévues par le RGPD. Seul le personnel autorisé y a accès, et elles ne seront ni diffusées ni communiquées à des tiers sauf pour satisfaire à des obligations légales spécifiques.
+ 
+ ## 5. Utilisation des cookies
+-Notre site utilise des cookies techniques et analytiques pour améliorer l’expérience utilisateur et recueillir des informations statistiques sur l’utilisation du site. Pour plus d’informations, consultez notre [Politique de cookies](#).
++Notre site n'utilise ni cookies de profilage ni outils d'analyse tiers. Seules des fonctionnalités techniques essentielles au fonctionnement du site peuvent être employées (comme la mémorisation locale de la préférence de thème clair/sombre), sans aucun traçage de l'utilisateur.
+ 
+ ## 6. Droits des utilisateurs
+ Conformément aux articles 15 à 22 du RGPD, vous disposez des droits suivants :
+diff --git a/content/privacy/_index.it.md b/content/privacy/_index.it.md
+index 0e61713..5724371 100755
+--- a/content/privacy/_index.it.md
++++ b/content/privacy/_index.it.md
+@@ -19,7 +19,7 @@ Tra i dati personali che potrebbero essere raccolti automaticamente o forniti vo
+ - Numero di telefono
+ - Indirizzo IP
+ - Informazioni tecniche sul dispositivo e browser utilizzato
+-- Cookie tecnici e analitici (vedi punto 5)
++- Eventuali cookie o funzionalità tecniche essenziali (vedi punto 5)
+ 
+ ## 3. Finalità e Base Giuridica del Trattamento
+ 
+@@ -41,7 +41,7 @@ I dati vengono trattati in modo lecito, corretto e trasparente, mediante strumen
+ 
+ ## 5. Utilizzo dei Cookie
+ 
+-Il nostro sito utilizza cookie tecnici e di analytics per migliorare l’esperienza dell’utente e raccogliere informazioni statistiche sull'utilizzo del sito. Per maggiori informazioni consulta la nostra [Cookie Policy](#).
++Il nostro sito non utilizza cookie di profilazione né strumenti di analisi di terze parti. Possono essere impiegate esclusivamente funzionalità tecniche essenziali al funzionamento del sito (come la memorizzazione locale della preferenza per il tema chiaro/scuro), che non comportano alcun tracciamento dell'utente.
+ 
+ ## 6. Diritti degli Utenti
+ 
+diff --git a/content/terms/_index.de.md b/content/terms/_index.de.md
+index cab7713..d20920d 100644
+--- a/content/terms/_index.de.md
++++ b/content/terms/_index.de.md
+@@ -95,7 +95,7 @@ Sofern hierin nicht anders bestimmt, beeinträchtigt die Nichtausübung eines Re
+ 
+ ## Auslegung bei Übersetzungen
+ 
+-Diese Allgemeinen Geschäftsbedingungen können übersetzt worden sein, sofern sie in anderen Sprachen als Englisch verfügbar gemacht wurden. Sie erklären sich damit einverstanden, dass im Streitfall der englische Originaltext maßgebend ist.
++Diese Allgemeinen Geschäftsbedingungen sind in italienischer Sprache verfasst und können in andere Sprachen übersetzt worden sein. Sie erklären sich damit einverstanden, dass im Streitfall der italienische Originaltext maßgebend ist.
+ 
+ ## Änderungen dieser Allgemeinen Geschäftsbedingungen
+ 
+diff --git a/content/terms/_index.en.md b/content/terms/_index.en.md
+index 88492c7..d3757ba 100755
+--- a/content/terms/_index.en.md
++++ b/content/terms/_index.en.md
+@@ -81,7 +81,7 @@ If any provision of these Terms is held to be unenforceable or invalid, such pro
+ Except as provided herein, the failure to exercise a right or to require performance of an obligation under this Terms shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall be the waiver of a breach constitute a waiver of any subsequent breach.
+ 
+ ## Translation Interpretation
+-These Terms and Conditions may have been translated if We have made them available to You in a language other than English. You agree that the original English text shall prevail in the case of a dispute.
++These Terms and Conditions are drawn up in Italian and may have been translated into other languages. You agree that the original Italian text shall prevail in the case of a dispute.
+ 
+ ## Changes to These Terms and Conditions
+ We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
+diff --git a/content/terms/_index.es.md b/content/terms/_index.es.md
+index f5f4128..db63ef4 100755
+--- a/content/terms/_index.es.md
++++ b/content/terms/_index.es.md
+@@ -81,7 +81,7 @@ Si alguna disposición de estos Términos se considera inválida o inaplicable,
+ Salvo lo dispuesto en contrario en este documento, la falta de ejercicio de un derecho o la renuncia a exigir el cumplimiento de una obligación bajo estos Términos no afectará la capacidad de una parte para ejercer dicho derecho o exigir dicho cumplimiento en el futuro, ni la renuncia a un incumplimiento constituirá renuncia a incumplimientos posteriores.
+ 
+ ## Interpretación en Caso de Traducción
+-Estos Términos y Condiciones pueden haber sido traducidos si los hemos puesto a su disposición en un idioma distinto del inglés. Usted acepta que el texto original en inglés prevalecerá en caso de controversia.
++Estos Términos y Condiciones están redactados en italiano y pueden haber sido traducidos a otros idiomas. Usted acepta que el texto original en italiano prevalecerá en caso de controversia.
+ 
+ ## Modificaciones a Estos Términos y Condiciones
+ Nos reservamos el derecho, a nuestra sola discreción, de modificar o sustituir estos Términos en cualquier momento. Si una revisión es material, haremos esfuerzos razonables para proporcionar al menos 30 días de aviso previo antes de que entren en vigor los nuevos términos. Qué constituye un cambio material se determinará a nuestra sola discreción.
+diff --git a/content/terms/_index.fr.md b/content/terms/_index.fr.md
+index 0d55d0d..a5ce81d 100755
+--- a/content/terms/_index.fr.md
++++ b/content/terms/_index.fr.md
+@@ -81,7 +81,7 @@ Si une disposition des présentes Conditions est jugée invalide ou inapplicable
+ Sauf disposition contraire dans le présent document, le fait de ne pas exercer un droit ou de ne pas exiger l'exécution d'une obligation en vertu des présentes Conditions n'affectera pas la capacité d'une partie à exercer ce droit ou à exiger cette exécution ultérieurement, ni la renonciation à un manquement ne constituera une renonciation à des manquements ultérieurs.
+ 
+ ## Interprétation en Cas de Traduction
+-Les présentes Conditions Générales d'Utilisation peuvent avoir été traduites si Nous les avons mises à Votre disposition dans une langue autre que l'anglais. Vous acceptez que le texte original en anglais prévaudra en cas de litige.
++Les présentes Conditions Générales d'Utilisation sont rédigées en italien et peuvent avoir été traduites dans d'autres langues. Vous acceptez que le texte original en italien prévaudra en cas de litige.
+ 
+ ## Modifications des Présentes Conditions Générales d'Utilisation
+ Nous nous réservons le droit, à Notre seule discrétion, de modifier ou remplacer ces Conditions à tout moment. Si une révision est substantielle, Nous ferons des efforts raisonnables pour fournir un préavis d'au moins 30 jours avant l'entrée en vigueur des nouvelles dispositions. Ce qui constitue un changement substantiel sera déterminé à Notre seule discrétion.
+diff --git a/content/terms/_index.it.md b/content/terms/_index.it.md
+index d62a362..c2bb2c8 100755
+--- a/content/terms/_index.it.md
++++ b/content/terms/_index.it.md
+@@ -95,7 +95,7 @@ Fatta eccezione per quanto diversamente stabilito nel presente documento, l'even
+ 
+ ## Interpretazione in Caso di Traduzione
+ 
+-I presenti Termini e Condizioni possono essere stati tradotti qualora resi disponibili in lingue diverse dall'inglese. Lei conviene che il testo originale in lingua inglese prevarrà in caso di controversia.
++I presenti Termini e Condizioni sono redatti in lingua italiana e possono essere stati tradotti in altre lingue. Lei conviene che il testo originale in lingua italiana prevarrà in caso di controversia.
+ 
+ ## Modifiche ai Presenti Termini e Condizioni
+ 
+-- 
+2.43.0
+
