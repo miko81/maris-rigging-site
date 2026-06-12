@@ -8,7 +8,7 @@ description: "Contact"
 **Operational base**:
 La Maddalena - Palau - Olbia
 
-**Available**: Transfers on request in Sardinia and Corsica
+**Available**: Transfers on request in Sardinia
 
 > Rapid on-site interventions in the harbour 7/7 (weather permitting).
 

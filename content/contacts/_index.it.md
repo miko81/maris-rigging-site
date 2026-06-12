@@ -8,7 +8,7 @@ description: "Contatti"
 **Base operativa**:
 La Maddalena - Palau - Olbia
 
-**Disponibile**: Trasferte su richiesta in Sardegna e Corsica
+**Disponibile**: Trasferte su richiesta in Sardegna
 
 > Interventi rapidi in porto 7/7 (salvo meteo).
 

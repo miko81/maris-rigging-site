@@ -8,7 +8,7 @@ description: "Contact"
 **Base opérationnelle** :
 La Maddalena - Palau - Olbia
 
-**Disponible** : Déplacements sur demande en Sardaigne et en Corse
+**Disponible** : Déplacements sur demande en Sardaigne
 
 > Interventions rapides dans le port 7j/7 (sauf conditions météo).
 

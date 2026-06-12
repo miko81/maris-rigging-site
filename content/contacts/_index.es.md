@@ -8,7 +8,7 @@ description: "Contacto"
 **Base operativa**:
 La Maddalena - Palau - Olbia
 
-**Disponible**: Desplazamientos bajo pedido en Cerdeña y Córcega
+**Disponible**: Desplazamientos bajo pedido en Cerdeña
 
 > Intervenciones rápidas en puerto 7/7 (salvo condiciones meteorológicas).
 
